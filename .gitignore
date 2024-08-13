@@ -15,4 +15,7 @@
 lint.log
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+vendor/
+
+# Local config for IDE
+.idea
